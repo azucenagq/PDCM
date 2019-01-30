@@ -1,0 +1,33 @@
+/*-----------------------------------------------------------------------------------
+
+    Theme Name: Ales - Digital Agency Template
+    Description: Digital Agency Template
+    Author: chitrakootweb
+    Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == animate Headline == */
+@import url("plugins/animate.css");
+
+/* == et-line icon font == */
+@import url("plugins/et-line.css");
+
+/* == fontawesome icon font == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == owl.carousel == */
+@import url("plugins/owl.carousel.min.css");
+
+/* == helper classes == */
+@import url("plugins/default.css");
+
+/* == contact form classes == */
+@import url("plugins/mailform.css");
