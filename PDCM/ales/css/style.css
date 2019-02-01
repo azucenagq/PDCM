@@ -639,7 +639,7 @@ header {
   background: linear-gradient(to bottom, #fff 0%, #fff 30%, #fff 30%, #222 30%, #222 100%); }
 
 .bg-vertical-fourty-half-base {
-  background: linear-gradient(to bottom, #222 0%, #222 40%, #222 40%, #f7f7f7 40%, #f7f7f7 100%); }
+  background: linear-gradient(to bottom, #222 0%, #222 40%, #222 40%, #222 40%, #222 100%); }
 
 .bg-vertical-fourty-half-primary {
   background: linear-gradient(to bottom, #fff 0%, #fff 40%, #fff 40%, #222 40%, #222 100%); }
