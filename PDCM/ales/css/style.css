@@ -1378,11 +1378,8 @@ ul.countdown li {
   margin: 0 25px; }
   .footer-social a:first-child {
     margin-left: 0; }
-  .footer-social a i {
-    color: #626262;
-    font-size: 22px; }
-  .footer-social a:hover i {
-    color: #222; }
+
+ 
 
 #map {
   height: 700px;
@@ -1443,6 +1440,8 @@ ul.countdown li {
 
 /*# sourceMappingURL=style.css.map */
 /*estilos de iconos*/
-.icono{
-  font-size: 40px;
-}
+
+  
+.footer-social  i {
+ 
+  font-size: 40px; }

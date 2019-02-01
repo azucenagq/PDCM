@@ -42,9 +42,8 @@ Table of contents
 
 html{ height: 100%; -moz-osx-font-smoothing: grayscale; }
 body{ font-family: "Roboto", sans-serif; -webkit-font-smoothing: antialiased; -moz-font-smoothing: antialiased; font-smoothing: antialiased; font-size: 14px; color: #6f6f6f; font-weight: 400; line-height: 24px; height: 100%; -moz-osx-font-smoothing: grayscale; }
-a{ color: #6f6f6f; text-decoration: none; }
-a:active, a:focus{ color: #6f6f6f; text-decoration: none; }
-a:hover, a:active{ color: #222; text-decoration: none; }
+a{ color: #f98205; text-decoration: none; }
+a:hover{ color: #ba5000; text-decoration: none; }
 a:focus, a:active{ outline: none; }
 button:focus, button:active{ outline: none; }
 .btn.active.focus, .btn.active:focus{ outline: none; }
