@@ -25,6 +25,11 @@ Table of contents
 /*============================== 
     Basic
 ================================*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 .text-base-color {
   color: #222; }
 
@@ -1445,3 +1450,7 @@ ul.countdown li {
 .footer-social  i {
  
   font-size: 40px; }
+#nosotros{
+  color: white;
+}
+.navbar-default{ transition: all 0.5s ease 0s; -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); -ms-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); }
