@@ -13,23 +13,26 @@ header{ box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); transition: all 0.5s ease 0s;
 
 .navbar-nav li{ list-style: none; -webkit-transition: background .3s ease; -ms-transition: background .3s ease; transition: background .3s ease; }
 .navbar-nav li.has-sub > a{ position: relative; }
-.navbar-nav li.has-sub a:hover{ color: #fff; }
+.navbar-nav li.has-sub a:hover{ color: rgb(64, 199, 23); }
 .navbar-nav li a{ display: block; color: #9d9d9d; font-size: 13px; }
 .navbar-nav > li{ margin-left: 10px; float: left; }
 .navbar-nav > li.has-sub{ padding-right: 13px; }
 .navbar-nav > li > a{ position: relative; display: block; font-size: 12px; font-weight: 500; padding: 21px 0.5rem; color: #232323; letter-spacing: 0.5px; text-transform: uppercase; -webkit-transition-duration: 500ms; -o-transition-duration: 500ms; transition-duration: 500ms; }
+.navbar-nav > li > a:hover{ color:#3498db;}
 .navbar-nav li.current > a{ color: #3498db; }
+
 .navbar-nav > li.has-sub > a:hover{ color: #000; }
+.navbar-nav > li.has-sub > .lista a:hover{ color: #000; }
 .navbar > ul > li.has-sub > a:hover:after{ border-color: transparent #000 #000 transparent; }
 .navbar > ul > li.has-sub > a:after{ position: absolute; top: 28px; right: -8px; content: ""; border-color: transparent #232323 #232323 transparent; border-style: solid; border-width: 0 1px 1px 0; display: block; height: 6px; transform: rotate(45deg); transition: border 0.3s ease 0s; width: 6px; }
 .navbar > ul > li.current > a:after{ border-color: transparent #3498db #3498db transparent; }
 
 .navbar-nav ul{ position: absolute; left: -9999px; }
-.navbar ul ul li{ -webkit-transition: all .25s ease; -ms-transition: all .25s ease; transition: all .25s ease; margin-bottom: 12px; padding: 0 20px; }
+.navbar ul ul li{ -webkit-transition: all .25s ease; -ms-transition: all .25s ease; transition: all .25s ease; margin-bottom: 12px; padding: 0 20px; color: #0ba713}
 .navbar ul ul li:last-child{ margin-bottom: 0; }
-.navbar ul ul li.active > a{ color: #fff; }
+.navbar ul ul li.active > a{ color: rgb(52, 143, 57); }
 .navbar-nav li > ul{ padding: 15px 0; margin: 0 0 0 10px; background: #232323; min-width: 225px; -webkit-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2); -ms-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2); box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2); }
-.navbar-nav li:hover > ul{ left: auto; }
+.navbar-nav li:hover > ul{ left: auto;  }
 
 .navbar-nav > li.has-sub > ul{ opacity: 0; margin-top: 10px; -webkit-transition: all .5s ease; -ms-transition: all .5s ease; -moz-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
 .navbar-nav > li.has-sub:hover > ul{ margin-top: 0; opacity: 1; }

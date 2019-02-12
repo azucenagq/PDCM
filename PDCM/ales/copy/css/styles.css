@@ -43,6 +43,9 @@
     Common styles
 ====================================== */
 /* loader */
+.lista:hover{
+  color:#a1ec14;
+}
 #preloader {
   position: fixed;
   left: 0;

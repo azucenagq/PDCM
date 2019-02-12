@@ -5075,3 +5075,7 @@ footer h3.footer-title-style7 {
     font-size: 13px; } }
 
 /*# sourceMappingURL=styles.css.map */
+
+ul li .lista:hover {
+  color: #25b7d1;
+}
