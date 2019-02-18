@@ -1536,7 +1536,7 @@ ul.countdown li {
 }
 
 .portfolio-cover {
-  background-color: rgba(255, 66, 41, 0);
+  background-color: rgba(236, 35, 9, 0);
   opacity: 1;
   position: absolute;
   height: 100%;
@@ -1592,7 +1592,7 @@ ul.countdown li {
   overflow: hidden;
   &:hover {
     .portfolio-cover {
-      background-color: rgba(0, 0, 0, 0.83);
+      background-color:red;
       display: block;
     }
     .portfolio-title {

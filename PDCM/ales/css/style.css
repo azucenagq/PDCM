@@ -31,7 +31,7 @@ Table of contents
   box-sizing: border-box;
 }
 .text-base-color {
-  color: #222; }
+  color: #f98205; }
 
 .text-primary-color {
   color: #fff; }
@@ -362,7 +362,7 @@ header {
   background-image: url("../img/banner/home-type-banner-01.jpg"); }
 
 .home-type-banner h1 {
-  color: #222;
+  color: #f98205;
   font-size: 58px;
   line-height: 58px; }
 
@@ -495,7 +495,7 @@ header {
     position: relative;
     top: -1px; }
   .btn:hover, .btn:active {
-    background-color: #fff !important;
+    background-color: #f98205 !important;
     color: #222;
     border: 3px solid #222; }
   .btn:hover:after, .btn:active:after {
@@ -527,7 +527,7 @@ header {
   border-color: #222;
   color: #222; }
   .btn-primary:hover, .btn-primary:active, .btn-primary.active:not(:disabled):not(.disabled) {
-    background-color: #222 !important;
+    background-color: #f98205 !important;
     color: #fff !important;
     border-color: #222 !important; }
   .btn-primary:hover:after, .btn-primary:active:after {
@@ -549,7 +549,7 @@ header {
 .border-primary {
   border: 3px solid #fff !important; }
   .border-primary:hover, .border-primary:active, .border-primary.active:not(:disabled):not(.disabled) {
-    color: #fff !important;
+    color: #f98205 !important;
     border-color: #fff !important; }
 
 /* responsive css */
