@@ -142,12 +142,12 @@ if (!empty($_GET['res'])) {
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 margin-70px-bottom sm-margin-20px-bottom">
-                    <p>
-                        <img src="img/JAB/JAB_JB Series de Válvula Interna.jpg" alt="" /></p>
-                
+                        <div class="col-lg-8 margin-70px-bottom sm-margin-20px-bottom">
+                            <p>
+                                <img src="img/JAB/JAB_JB Series de Válvula Interna.jpg" alt="" /></p>
+                        
 
-                </div>
+                        </div>
                 <div class="col-lg-4  margin-70px-bottom sm-no-margin-bottom">
                     <div class="alt-font font-weight-700 text-base-color text-uppercase margin-15px-bottom text-medium">
                     JB Series de Válvu-la Interna
@@ -171,49 +171,141 @@ if (!empty($_GET['res'])) {
                     </ul>
                      </p>
 
-                    <table class="table">
-                            <thead>
-                            <tr>
-                            <th>MODELO</th>
-                            <th>PESO OPERATIVO</th>
-                            <th>MOTOR</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <th scope="row">SY16C</th>
-                            <td>3858 lb (1750 kg)</td>
-                            <td>Yammar 3TNV74F, Tier 4f</td>
-                            </tr>
-                            <th scope="row">SY35U</th>
-                            <td>8333 lb (3780 kg)</td>
-                            <td>Yammar 3TNV88-BDSA, Tier 4f</td>
-                            </tr>
-                            <th scope="row">SY75C</th>
-                            <td>16050 lb (7280 kg)</td>
-                            <td>Isuzu AU-4LE2X Tier 4i</td>
-                            </tr>
-                            <th scope="row">SY135C</th>
-                            <td>30424 lb (13800 kg)</td>
-                            <td>Isuzu AJ-4JJ1X Tier 3</td>
-                            </tr>
-                            <th scope="row">SY215C</th>
-                            <td>51193 lb (23221 kg)</td>
-                            <td>Cummins QSB 6.7. Tier 3</td>
-                            </tr>
-                            <th scope="row">SY235C</th>
-                            <td>55589 lb (25215 kg)</td>
-                            <td>Cummins QSB 6.7. Tier 3</td>
-                            </tr>
-                            <th scope="row">SY335C</th>
-                            <td>79860 lb (36224 kg)</td>
-                            <td>Cummins QSL 9, Tier 4i</td>
-                            </tr>
-                            </tbody>
-                            </table>
+             
+                 </div>
+            <div class="col-lg-12 margin-70px-bottom sm-margin-20px-bottom">
+            <h3 style="text-align:center">Tabla de especificaciones del producto</h3>
+            <table class="table table-bordered">
+            <thead>
+            <tr><th colspan="12" style="text-align:center">JB SERIES DE VÁLVULA INTERNA (Silencioso)</th></tr>
+            <tr>
+            <th> Modelo</th>
+            <th>Peso Operativo</th>
+            <th>Diámetro</th>
+            <th>Excabadora Aplicable</th>
+            <th>Tasa de Impacto</th>
+            <th>Presión Operacional</th>
+            <th>Presión de Ajuste</th>
+            <th>Presión en la Cabeza</th>
+            <th>Presión del Acumulador</th>
+            <th>Flujo de Aceite Requerido</th>
+            <th>Nivel de Ruido</th>
+            <th>Posición de montaje de la válvula </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <th scope="row"></th><th>kg</th><th>mm</th><th>tons</th><th>bpm</th><th>bar</th><th>bar / psi</th><th>bar / psi</th><th>bar / psi</th><th>lpm</th><th>LPA</th><th>
 
-                </div>
+            </tr>
+            <tr>
+            <th scope="row">JB7S III</th><th>98</th><th>40</th><th>0.8~1.5</th><th>700~1,200</th><th>80~100</th><th>.   130 / 1,885</th><th>. 16 / 232</th><th>Ninguna</th><th>15~25</th><th>85</th><th>Interna</th>
+            </tr>
 
-            </div>
+
+
+
+            <tr>
+            <th scope="row"> JB8S III</th><th>108</th><th>45</th><th>0.8~2.0</th><th>700~1,200</th><th>80~100</th><th>.   130 / 1,886</th><th>. 16 / 232</th><th>Ninguna</th><th>15~25</th><th>85</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB9S III</th><th>137</th><th>45</th><th>1.0~2.0</th><th>600~1,100</th><th>80~100</th><th>.   130 / 1,887</th><th>. 16 / 232</th><th>Ninguna</th><th>20~30</th><th>85</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB10S III</th><th>216</th><th>53</th><th>1.5~3.0</th><th>550~1,000</th><th>90~120</th><th>.   150 / 2,176</th><th>. 16 / 232</th><th>Ninguna</th><th>25~40</th><th>86</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB15S III</th><th>250</th><th>60</th><th>2.0~3.5</th><th>500~1,000</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>30~60</th><th>86</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB20S III</th><th>345</th><th>68</th><th>4.0~6.0</th><th>500~950</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>35~70</th><th>87</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB30S III</th><th>482</th><th>75</th><th>4.5~7.0</th><th>450~900</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>40~90</th><th>88</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB35S III</th><th>560</th><th>80</th><th>5.0~8.0</th><th>420~850</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>40~90</th><th>88</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB40S III</th><th>607</th><th>85</th><th>6.0~10</th><th>400~750</th><th>130~150</th><th>.   180 / 2,611</th><th>. 16 / 232</th><th>Ninguna</th><th>45~95</th><th>88</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB50S III</th><th>830</th><th>90</th><th>8~12</th><th>400~730</th><th>130 ~150</th><th>.   180 / 2,611</th><th>. 16 / 232</th><th>Ninguna</th><th>60~100</th><th>89</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB60S III</th><th>1,019</th><th>100</th><th>10~16</th><th>400 ~700</th><th>150~170</th><th>.   200 / 2,901</th><th>. 16 / 232</th><th>Ninguna</th><th>80~110</th><th>90</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB71S III</th><th>1,480</th><th>125</th><th>16~22</th><th>385~550</th><th>150~170</th><th>.   200 / 2,901</th><th>. 16 / 232</th><th>. 60 / 870</th><th>90~120</th><th>90</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB81S III</th><th>1,870</th><th>140</th><th>20~28</th><th>362~435</th><th>160~180</th><th>.   210 / 3,046</th><th>. 16 / 232</th><th>. 60 / 870</th><th>125~150</th><th>91</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB101S III</th><th>2,170</th><th>145</th><th>25~32</th><th>334~397</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>160~190</th><th>91</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB111S III</th><th>2,650</th><th>150</th><th>28~40</th><th>272~360</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>160~190</th><th>93</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB121S III</th><th>3,040</th><th>155</th><th>35~45</th><th>260~342</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>190~250</th><th>94</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB141S III</th><th>3,630</th><th>165</th><th>38~52</th><th>241~314</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>200~260</th><th>94</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB171S III</th><th>4,340</th><th>175</th><th>45~70</th><th>210~290</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>210~290</th><th>94</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB181S III</th><th>5,200</th><th>190</th><th>50~75</th><th>195~276</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>240~340</th><th>94</th><th>Interna</th><tr>
+            <tr>
+            <th scope="row"> JB191S III</th><th>6,600</th><th>210</th><th>55~100</th><th>195~260</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>300~400</th><th>96</th><th>Interna</th><tr>
+            
+            </tbody>
+            </table>
+
+
+
+            <table class="table table-bordered">
+            <thead>
+            <tr><th colspan="12" style="text-align:center">JB SERIES DE VÁLVULA INTERNA (Abierto) </th></tr>
+
+
+            <tr>
+            <th>Modelo</th><th>Peso Operativo</th><th>Diámetro</th><th>Excabadora Aplicable</th><th>Tasa de Impacto</th><th>Presión Operacional</th><th>Presión de Ajuste</th><th>Presión en la Cabeza</th><th>Presión del Acumulador</th><th>Flujo de Aceite Requerido</th><th>Nivel de Ruido</th><th>Posición de montaje de la válvula </th><th>
+            <tr>
+            <th> kg</th><th>mm</th><th>tons</th><th>bpm</th><th>bar</th><th>bar / psi</th><th>bar / psi</th><th>bar / psi</th><th>lpm</th><th>LPA</th><th></th><th>
+        <tr>
+            <th>JB7T III</th><th>88</th><th>40</th><th>0.8~1.5</th><th>700~1,200</th><th>80~100</th><th>.   130 / 1,885</th><th>. 16 / 232</th><th>Ninguna</th><th>15~25</th><th>85</th><th>Interna</th><tr>
+        <tr>
+            <th>JB8T III</th><th>97</th><th>45</th><th>0.8~2.0</th><th>700~1,200</th><th>80~100</th><th>.   130 / 1,886</th><th>. 16 / 232</th><th>Ninguna</th><th>15~25</th><th>85</th><th>Interna</th><tr>
+        <tr>
+            <th>JB9T III</th><th>123</th><th>45</th><th>1.0~2.0</th><th>600~1,100</th><th>80~100</th><th>.   130 / 1,887</th><th>. 16 / 232</th><th>Ninguna</th><th>20~30</th><th>85</th><th>Interna</th><tr>
+        <tr>
+            <th>JB10T III</th><th>162</th><th>53</th><th>1.5~3.0</th><th>550~1,000</th><th>90~120</th><th>.   150 / 2,176</th><th>. 16 / 232</th><th>Ninguna</th><th>25~40</th><th>86</th><th>Interna</th><tr>
+        <tr>
+            <th>JB15T III</th><th>225</th><th>60</th><th>2.0~3.5</th><th>500~1,000</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>30~60</th><th>86</th><th>Interna</th><tr>
+        <tr>
+            <th>JB20T III</th><th>301</th><th>68</th><th>4.0~6.0</th><th>500~950</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>35~70</th><th>87</th><th>Interna</th><tr>
+        <tr>
+            <th>JB30T III</th><th>438</th><th>75</th><th>4.5~7.0</th><th>450~900</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>40~90</th><th>88</th><th>Interna</th><tr>
+        <tr>
+            <th>JB35T III</th><th>525</th><th>80</th><th>5.0~8.0</th><th>420~850</th><th>100~130</th><th>.   160 / 2,321</th><th>. 16 / 232</th><th>Ninguna</th><th>40~90</th><th>88</th><th>Interna</th><tr>
+        <tr>
+            <th>JB40T III</th><th>592</th><th>85</th><th>6.0~10</th><th>400~750</th><th>130~150</th><th>.   180 / 2,611</th><th>. 16 / 232</th><th>Ninguna</th><th>45~95</th><th>88</th><th>Interna</th><tr>
+        <tr>
+            <th>JB50T III</th><th>747</th><th>90</th><th>8~12</th><th>400~730</th><th>130 ~150</th><th>.   180 / 2,611</th><th>. 16 / 232</th><th>Ninguna</th><th>60~100</th><th>89</th><th>Interna</th><tr>
+        <tr>
+            <th>JB60T III</th><th>975</th><th>100</th><th>10~16</th><th>400 ~700</th><th>150~170</th><th>.   200 / 2,901</th><th>. 16 / 232</th><th>Ninguna</th><th>80~110</th><th>90</th><th>Interna</th><tr>
+        <tr>
+            <th>JB71T III</th><th>1530</th><th>125</th><th>16~22</th><th>385~550</th><th>150~170</th><th>.   200 / 2,901</th><th>. 16 / 232</th><th>. 60 / 870</th><th>90~120</th><th>90</th><th>Interna</th><tr>
+        <tr>
+            <th>JB81T III</th><th>1890</th><th>140</th><th>20~28</th><th>362~435</th><th>160~180</th><th>.   210 / 3,046</th><th>. 16 / 232</th><th>. 60 / 870</th><th>125~150</th><th>91</th><th>Interna</th><tr>
+        <tr>
+            <th>JB101T III</th><th>2250</th><th>145</th><th>25~32</th><th>334~397</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>160~190</th><th>91</th><th>Interna</th><tr>
+        <tr>
+            <th>JB111T III</th><th>2750</th><th>150</th><th>28~40</th><th>272~360</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>160~190</th><th>93</th><th>Interna</th><tr>
+        <tr>
+            <th>JB121T III</th><th>3,220</th><th>155</th><th>35~45</th><th>260~342</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>190~250</th><th>94</th><th>Interna</th><tr>
+        <tr>
+            <th>JB141T III</th><th>3830</th><th>165</th><th>38~52</th><th>241~314</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>200~260</th><th>94</th><th>Interna</th><tr>
+        <tr>
+            <th>JB171T III</th><th>4540</th><th>175</th><th>45~70</th><th>210~290</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>210~290</th><th>94</th><th>Interna</th><tr>
+        <tr>
+            <th>JB181T III</th><th>5450</th><th>190</th><th>50~75</th><th>195~276</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>240~340</th><th>94</th><th>Interna</th><tr>
+        <tr>
+            <th>JB191T III</th><th>6820</th><th>210</th><th>55~100</th><th>195~260</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>300~400</th><th>96</th><th>Interna</th><tr>
+        
+            </tbody>
+            </table>
+
+
+
+
+             </div>
             <div class="separator-line-horrizontal-full bg-medium-gray sm-display-none"></div>
         </div>
     </section>
@@ -287,49 +379,56 @@ if (!empty($_GET['res'])) {
                     <li>	21 modelos de tipo silenciado.</li>
                     </ul>
                      </p>
-
-                    <table class="table">
-                            <thead>
-                            <tr>
-                            <th>MODELO</th>
-                            <th>PESO OPERATIVO</th>
-                            <th>MOTOR</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <th scope="row">SY16C</th>
-                            <td>3858 lb (1750 kg)</td>
-                            <td>Yammar 3TNV74F, Tier 4f</td>
-                            </tr>
-                            <th scope="row">SY35U</th>
-                            <td>8333 lb (3780 kg)</td>
-                            <td>Yammar 3TNV88-BDSA, Tier 4f</td>
-                            </tr>
-                            <th scope="row">SY75C</th>
-                            <td>16050 lb (7280 kg)</td>
-                            <td>Isuzu AU-4LE2X Tier 4i</td>
-                            </tr>
-                            <th scope="row">SY135C</th>
-                            <td>30424 lb (13800 kg)</td>
-                            <td>Isuzu AJ-4JJ1X Tier 3</td>
-                            </tr>
-                            <th scope="row">SY215C</th>
-                            <td>51193 lb (23221 kg)</td>
-                            <td>Cummins QSB 6.7. Tier 3</td>
-                            </tr>
-                            <th scope="row">SY235C</th>
-                            <td>55589 lb (25215 kg)</td>
-                            <td>Cummins QSB 6.7. Tier 3</td>
-                            </tr>
-                            <th scope="row">SY335C</th>
-                            <td>79860 lb (36224 kg)</td>
-                            <td>Cummins QSL 9, Tier 4i</td>
-                            </tr>
-                            </tbody>
-                            </table>
-
                 </div>
+                <div class="col-lg-12 margin-70px-bottom sm-margin-20px-bottom">
+                <h3 style="text-align:center">Tabla de especificaciones del producto</h3>
+                <table class="table table-bordered">
+                <thead>
+                <tr><th colspan="12" style="text-align:center">JB SERIES DE VÁLVULA EXTERNA (Silencioso)</th></tr>
+                <tr>
+                <th>Peso Operativo</th><th>Diámetro</th><th>Excabadora Aplicable</th><th>Tasa de Impacto</th><th>Presión Operacional</th><th>Presión de Ajuste</th><th>Presión en la Cabeza</th><th>Presión del Acumulador</th><th>Flujo de Aceite Requerido</th><th>Nivel de Ruido</th><th>Posición de montaje de la válvula </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <th scope="row">	kg</th><th>	mm</th><th>	tons</th><th>	bpm</th><th>	bar</th><th>	bar / psi</th><th>	bar / psi</th><th>	bar / psi</th><th>	lpm</th><th>	LPA</th><th>	</th><tr>	
+                
+<tr><th scope="row">1,340</th><th>120</th><th>13~18</th><th>450~700</th><th>150~170</th><th>.   200 / 2,901</th><th>. 6 / 87</th><th>. 60 / 870</th><th>90 ~120</th><th>90</th><th>Externa</th><tr>
+<tr><th scope="row">1,760</th><th>135</th><th>18~26</th><th>450~ 600</th><th>160~180</th><th>.   210 / 3,046</th><th>. 6 / 87</th><th>. 60 / 870</th><th>125 ~150</th><th>91</th><th>Externa</th><tr>
+<tr><th scope="row">2,250</th><th>150</th><th>25~32</th><th>400~550</th><th>160~180</th><th>.   220 / 3,191</th><th>. 6 / 87</th><th>. 60 / 870</th><th>160 ~190</th><th>93</th><th>Externa</th><tr>
+<tr><th scope="row">2,800</th><th>160</th><th>32~42</th><th>300~400</th><th>160~180</th><th>.   220 / 3,191</th><th>. 6 / 87</th><th>. 60 / 870</th><th>190~250</th><th>94</th><th>Externa</th><tr>
+<tr><th scope="row">3,200</th><th>165</th><th>35~45</th><th>230~300</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>200~260</th><th>94</th><th>Externa</th><tr>
+<tr><th scope="row">4,460</th><th>175</th><th>45~62</th><th>210~285</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>210~290</th><th>95</th><th>Externa</th><tr>
+<tr><th scope="row">4,820</th><th>185</th><th>54~70</th><th>190~270</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>220~310</th><th>96</th><th>Externa</th><tr>
 
+                </tbody>
+                </table>
+
+
+                <table class="table table-bordered">
+                <thead>
+                <tr><th colspan="12" style="text-align:center">JB SERIES DE VÁLVULA EXTERNA (Abierto)</th></tr>
+                <tr>
+               <th>	Peso Operativo</th><th>	Diámetro</th><th>	Excabadora Aplicable</th><th>	Tasa de Impacto</th><th>	Presión Operacional</th><th>	Presión de Ajuste</th><th>	Presión en la Cabeza</th><th>	Presión del Acumulador</th><th>	Flujo de Aceite Requerido</th><th>	Nivel de Ruido</th><th>	Posición de montaje de la válvula </th>
+                </tr>	
+                </thead>
+                <tbody>
+                <tr><th scope="row">kg</th><th>	mm</th><th>	tons</th><th>	bpm</th><th>	bar</th><th>	bar / psi</th><th>	bar / psi</th><th>	bar / psi</th><th>	lpm</th><th>	LPA</th><th>	</th><tr>	
+
+
+ <tr><th scope="row">1,410</th><th>120</th><th>13~18</th><th>450~700</th><th>150~170</th><th>.   200 / 2,901</th><th>. 6 / 87</th><th>. 60 / 870</th><th>90 ~120</th><th>90</th><th>Externa</th><tr>
+ <tr><th scope="row">1,840</th><th>135</th><th>18~26</th><th>450~ 600</th><th>160~180</th><th>.   210 / 3,046</th><th>. 6 / 87</th><th>. 60 / 870</th><th>125 ~150</th><th>91</th><th>Externa</th><tr>
+ <tr><th scope="row">2,410</th><th>150</th><th>25~32</th><th>400~550</th><th>160~180</th><th>.   220 / 3,191</th><th>. 6 / 87</th><th>. 60 / 870</th><th>160 ~190</th><th>93</th><th>Externa</th><tr>
+ <tr><th scope="row">2,950</th><th>160</th><th>32~42</th><th>300~400</th><th>160~180</th><th>.   220 / 3,191</th><th>. 6 / 87</th><th>. 60 / 870</th><th>190~250</th><th>94</th><th>Externa</th><tr>
+ <tr><th scope="row">3,420</th><th>165</th><th>35~45</th><th>230~300</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>200~260</th><th>94</th><th>Externa</th><tr>
+ <tr><th scope="row">4,670</th><th>175</th><th>45~62</th><th>210~285</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>210~290</th><th>95</th><th>Externa</th><tr>
+ <tr><th scope="row">4,950</th><th>185</th><th>54~70</th><th>190~270</th><th>160~180</th><th>.   220 / 3,191</th><th>. 16 / 232</th><th>. 60 / 870</th><th>220~310</th><th>96</th><th>Externa</th><tr>
+                
+
+
+                </tbody>
+                </table>
+            </div>
             </div>
             <div class="separator-line-horrizontal-full bg-medium-gray sm-display-none"></div>
         </div>
